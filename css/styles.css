@@ -1,0 +1,91 @@
+.nav1 {
+  float: left;
+
+}
+
+.nav2 {
+  float: right;
+
+}
+
+.toprow {
+  width: 100%;
+}
+
+.leftlinks {
+  float: right;
+}
+
+.well {
+  height: 120px;
+  /*width: 100%;*/
+
+}
+
+.listheight {
+  height: 33%;
+  width: 1000px;
+
+}
+
+form {
+  float: right;
+
+}
+
+
+.panel-warning {
+    border-color: #faebcc;
+    background-color: #EADEF2;
+    height: 550px;
+    border-color: #BE5DFF;
+}
+.panel-warning > .panel-heading {
+  color: #000000;
+  background-color: #D8BEEB;
+  border-color: #BE5DFF;
+}
+.panel-warning > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #BE5DFF;
+}
+.panel-warning > .panel-heading .badge {
+  color: #EADEF2;
+  background-color: #EADEF2;
+}
+.panel-warning > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: #BE5DFF;
+}
+
+.panel-warning img {
+  height: 100%;
+  float: left;
+  margin-right: 20px;
+}
+
+#pain {
+  float: left;
+
+}
+#morepain {
+  float: right;
+}
+
+.logosize {
+  width: 130px;
+
+}
+
+.smalltext {
+  font-size: 12px;
+  color: blue;
+}
+
+.panel-body img {
+  float: left;
+  margin-right: 5px;
+
+}
+
+.welcome {
+  font-size: 18px;
+}
